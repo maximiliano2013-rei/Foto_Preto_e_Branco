@@ -1,1 +1,1 @@
-# Foto_Preto_e_Branco
+# Foto_Preto_e_Branco / Python
